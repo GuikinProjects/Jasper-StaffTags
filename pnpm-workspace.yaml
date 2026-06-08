@@ -1,2 +1,3 @@
 allowBuilds:
   '@sapphire/type': true
+  better-sqlite3: true
